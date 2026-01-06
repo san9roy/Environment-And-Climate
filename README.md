@@ -22,7 +22,6 @@ The emphasis is not on machine learning or prediction, but on **understanding en
 - Pandas
 - NumPy
 - Matplotlib
-- Jupyter Notebook
 
 ---
 
